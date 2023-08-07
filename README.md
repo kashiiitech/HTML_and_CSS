@@ -1,4 +1,4 @@
-# HTML
+# HTML_and_CSS
 Hyper Text Markup Language. Not a programming language. Markup language for creating webpages/ documents.
 
 ## Blog
